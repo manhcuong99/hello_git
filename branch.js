@@ -1,0 +1,3 @@
+var document = function($hoakgoi){
+    
+}
